@@ -37,7 +37,7 @@ public class DXC_Cricket_Tournament {
 		else if(totalshirts>10) {
 			discount=20;
 		}
-		finalamount=totalcost-(totalcost*discount)/100));
+		finalamount=totalcost-(totalcost*discount)/100;
 		System.out.println("Final price is Rs."+finalamount);
 	}
 
